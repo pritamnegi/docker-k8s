@@ -5,3 +5,4 @@
 * docker system prune
 * docker system df -v
 * docker images
+* docker pull username/repository-name
